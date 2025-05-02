@@ -23,7 +23,7 @@ export default function Page() {
 							className="text-blue-500">
 							Next.js Learn Course
 						</a>
-						, brought to you by Vercel.
+						, brought to you by Vercel,edited by Ferenc Vigh.
 					</p>
 					<Link
 						href="/login"
